@@ -10,4 +10,16 @@ Sources:
 https://www.aclweb.org/anthology/2020.inlg-1.4.pdf
 https://github.com/Glorf/recipenlg
 https://recipenlg.cs.put.poznan.pl/
-https://www.kaggle.com/datasets/paultimothymooney/recipenlg
+https://www.kaggle.com/datasets/paultimothymooney/recipenlg --> Use this to download the dataset.
+
+Folder Structure:
+
+XGBoost_Recipe_Generator
+  |
+  |- data/
+  | |- recipenlg.csv
+  |- label_encoder.pkl
+  |- recipe_xgb_model.pkl
+  |- vectorizer.pkl
+  |- recipe_trainer.ipynb
+  |- recipe_generator.ipynb

@@ -12,7 +12,10 @@ https://github.com/Glorf/recipenlg
 https://recipenlg.cs.put.poznan.pl/
 https://www.kaggle.com/datasets/paultimothymooney/recipenlg --> Use this to download the dataset.
 
+See Readme.md as code to clearly see Folder structure
+
 Folder Structure:
+
 
 XGBoost_Recipe_Generator
   |
